@@ -1,5 +1,14 @@
 ## Hi there 👋
+# 我是mayor
+## 一名大学生 立志学好编程
+—— 想学c语言
+## 平时的爱好
+1. 玩minecraft 种田养老党
+2. 看番
+3. 打球 很菜
 
+**想成为不秃头的小佬**
+！【一张图片】（https://raw.githubusercontent.com/mayor1111111111/mayor1111111111/main/mayor6.jpg）
 <!--
 **mayor1111111111/mayor1111111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
